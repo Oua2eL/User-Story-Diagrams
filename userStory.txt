@@ -1,0 +1,13 @@
+Admin :  
+
+has access to the application and can edit it .
+
+Client : 
+
+can observe the application and can do a shopping .
+
+Shop : 
+
+you need to register so you can access it .
+
+** Other sections any visitor can access to them but only the admin can edit them **
